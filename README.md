@@ -3,4 +3,4 @@ Installs KVM virtualization platform and Kimchi web frontend for management on a
 
 1. git clone https://github.com/bbauer-io/kimchi-on-quickbox-script
 2. cd kimchi-on-quickbox-script
-3. run sudo sh kimchi-on-quickbox.sh
+3. sudo sh kimchi-on-quickbox.sh

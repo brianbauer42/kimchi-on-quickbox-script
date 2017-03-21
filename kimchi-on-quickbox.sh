@@ -1,7 +1,7 @@
 #!/bin/bash
 # 1. git clone https://github.com/bbauer-io/kimchi-on-quickbox-script
 # 2. cd kimchi-on-quickbox-script
-# 3. run sudo sh kimchi-on-quickbox.sh
+# 3. sudo sh kimchi-on-quickbox.sh
 
 # Check for root priviliges
 [ "$(whoami)" != "root" ] && exec sudo -- "$0" "$@"
